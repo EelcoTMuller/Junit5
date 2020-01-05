@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="454e53ae-93df-411e-ad00-42614b60b001" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ViWlgdk1o4mjBESf7TBoyc6eu3" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="nl.ordina.junit5" />
+      <recent name="nl.ordina.junit5.musicservice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.EnumParameterTest">
+    <configuration name="All in junitdemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitdemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArgumentProviderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.ordina.junit5.testdata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.ordina.junit5.testdata" />
+      <option name="MAIN_CLASS_NAME" value="nl.ordina.junit5.testdata.ArgumentProviderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CsvParameterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.ordina.junit5.testdata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.ordina.junit5.testdata" />
+      <option name="MAIN_CLASS_NAME" value="nl.ordina.junit5.testdata.CsvParameterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumParameterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.ordina.junit5.testdata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.ordina.junit5.testdata" />
+      <option name="MAIN_CLASS_NAME" value="nl.ordina.junit5.testdata.EnumParameterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.ordina.junit5.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.ordina.junit5.exceptions" />
+      <option name="MAIN_CLASS_NAME" value="nl.ordina.junit5.exceptions.MusicServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EnumParameterTest" />
+        <item itemvalue="JUnit.ArgumentProviderTest" />
+        <item itemvalue="JUnit.MusicServiceTest" />
+        <item itemvalue="JUnit.CsvParameterTest" />
+        <item itemvalue="JUnit.All in junitdemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="454e53ae-93df-411e-ad00-42614b60b001" name="Default Changelist" comment="" />
+      <created>1577736548838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577736548838</updated>
+    </task>
+    <servers />
+  </component>
+</project>
